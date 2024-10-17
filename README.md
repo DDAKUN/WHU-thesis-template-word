@@ -26,5 +26,4 @@
 ## 参考
 
 1. [Yimsun97](https://github.com/Yimsun97)/[thesisTemplate](https://github.com/Yimsun97/thesisTemplate)
-2. [csarron](https://github.com/csarron)/[bsThesisWHU](https://github.com/csarron/bsThesisWHU)
-3. 武汉大学本科生毕业论文（设计）书写印制规范（2024版）
+2. 武汉大学本科生毕业论文（设计）书写印制规范（2024版）
